@@ -1,0 +1,11 @@
+# Credenciales y secretos
+.env
+.env.local
+
+# Docker
+.docker/
+db_data/
+
+# OS files
+.DS_Store
+Thumbs.db
